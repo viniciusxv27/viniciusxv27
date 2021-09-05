@@ -3,7 +3,7 @@
   <a href="https://github.com/viniciusxv27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=merco&include_all_commits=true&count_private=true"/>
   <img width="180px" height="180px" alt="Vini-animation" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_tLz6EKHk.png">
-  <img height="180em " src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=merco"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=merco"/>
  
 <div>
 <div style="display: inline_block"><br>

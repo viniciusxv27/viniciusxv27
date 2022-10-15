@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Eu+sou+o+Vinicius+)](https://github.com/viniciusxv27)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Eu+sou+o+Vinicius+)](https://github.com/viniciusxv27)
 
 <div>
   <a href="https://github.com/viniciusxv27">

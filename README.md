@@ -7,9 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=dark"/>
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=viniciusxv27&layout=compact&langs_count=7&theme=redical"/>
- 
-<div id="fundo">
-<div style="display: inline_block"><br>
+</div>
+
+<div style="display: inline_block; background-color="white"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -17,12 +17,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
-<style>
-  #fundo{
-  background-color="white"}
-</style>
-  ##
-  
+
+##
+
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5527995088267" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/viniciusc027/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

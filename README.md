@@ -4,10 +4,10 @@
 
 <div>
   <a href="https://github.com/viniciusxv27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=viniciusxv27&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=radical"/>
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=viniciusxv27&layout=compact&langs_count=7&theme=redical"/>
+
 
 <div style="display: inline_block; background-color="white"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,6 +16,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+</div>
 </div>
 
 ##

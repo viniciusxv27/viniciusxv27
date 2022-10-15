@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=radical"/>
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=viniciusxv27&layout=compact&langs_count=7&theme=redical"/>
 
-
 <div style="display: inline_block; background-color="white"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

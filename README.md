@@ -1,10 +1,14 @@
-### Olá! Eu sou Vinicius Costa
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueLopes42.HenriqueLopes42">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Eu+sou+o+Vinicius+)](https://github.com/HenriqueLopes42)
+
 <div>
   <a href="https://github.com/viniciusxv27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=merco&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=merco"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=dark"/>
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=viniciusxv27&layout=compact&langs_count=7&theme=redical"/>
  
-<div>
+<div id="fundo">
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +17,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
-  
+<style>
+  #fundo{
+  background-color="white"}
+</style>
   ##
   
 <div> 
@@ -22,6 +29,6 @@
   <a href = "mailto:vinicius8cm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-costa-3648901a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/viniciusxv27/viniciusxv27/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
+  ![Snake animation](https://github.com/viniciusxv27/viniciusxv27/blob/output/github-contribution-grid-snake.svg)

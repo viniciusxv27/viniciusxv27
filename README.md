@@ -26,5 +26,3 @@
   <a href="https://www.linkedin.com/in/vinicius-costa-3648901a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-  ![Snake animation](https://github.com/viniciusxv27/viniciusxv27/blob/output/github-contribution-grid-snake.svg)

@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Hello+There+%F0%9F%91%8B;My+Name+is++Vinicius+Costa" alt="Typing SVG" /></a>
 ##
-( HTML5 | CSS3 | Javascript | Java | Python | Django | PHP | Laravel ) 🚀
+( HTML5 | CSS3 | JavaScript | Java | Python | Django | PHP | Laravel ) 🚀
 <ul>
   <li>👨‍💻 IT Trainee @IFES</li>
   <li>🎓 Computing Student</li>

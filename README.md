@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ##
-( HTML5 | CSS3 | JavaScript | Java | Python | Django | PHP ) 🚀
+( HTML5 | CSS3 | JavaScript | Java | Python | Django | PHP | Laravel) 🚀
 <ul>
   <li>👨‍💻 IT Trainee @IFES</li>
   <li>🎓 Computing Student</li>
@@ -25,6 +25,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
 
 ##

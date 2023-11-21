@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ##
-( HTML5 | CSS3 | JavaScript | React | PHP | Laravel | Python | Django | Flask | Java ) 🚀
+( HTML5 | CSS3 | JavaScript | React | PHP | Code Igniter | Python | Django | Flask | Java ) 🚀
 <ul>
   <li>👨‍💻 Dev Fullstack Junior</li>
   <li>🎓 Computing Student</li>

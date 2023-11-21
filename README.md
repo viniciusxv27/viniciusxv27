@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ##
-( HTML5 | CSS3 | JavaScript | React | PHP | Code Igniter | Python | Django | Flask | Java ) 🚀
+( HTML5 | CSS3 | JavaScript | React | PHP | Code Igniter | Python | Django | Flask ) 🚀
 <ul>
   <li>👨‍💻 Dev Fullstack Junior</li>
   <li>🎓 Computing Student</li>
@@ -27,7 +27,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Flask" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 ##

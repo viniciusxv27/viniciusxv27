@@ -2,7 +2,7 @@
 ##
 ( HTML5 | CSS3 | JavaScript | PHP | Python | Django | Flask ) 🚀
 <ul>
-  <li>👨‍💻 Dev Backend Fullstack Junior</li>
+  <li>👨‍💻 Dev Fullstack Junior</li>
   <li>🎓 Computing Student</li>
   <li>🌐 Passionate about backend development</li>
   <li>💡 Love a good challenge

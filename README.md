@@ -3,7 +3,7 @@
 HTML5 | CSS3 | JavaScript | Ionic | React | PHP | Laravel | Python | Django | Flask | MySQL 🚀
 <ul>
   <li>👨‍💻 Fullstack Developer</li>
-  <li>🎓 Computing Student</li>
+  <li>🎓 Computing Student @IFES['https://serra.ifes.edu.br/']</li>
   <li>💡 Love a good challenge
 </li>
 </ul>

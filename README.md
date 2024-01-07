@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
-##
-HTML5 | CSS3 | JavaScript | Ionic | React | PHP | Laravel | Python | Django | Flask | MySQL 🚀
+## My name is Vinicius
+( HTML5 | CSS3 | JavaScript | Ionic | React | PHP | Laravel | Python | Django | Flask | MySQL ) 🚀
 <ul>
   <li>👨‍💻 Fullstack Developer</li>
-  <li>🎓 Computing Student @IFES['https://serra.ifes.edu.br/']</li>
+  <li>🎓 Computing Student @IFES</li>
   <li>💡 Love a good challenge
 </li>
 </ul>

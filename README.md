@@ -2,9 +2,8 @@
 ##
 HTML5 | CSS3 | JavaScript | Ionic | React | PHP | Laravel | Python | Django | Flask | MySQL 🚀
 <ul>
-  <li>👨‍💻 Web Developer</li>
+  <li>👨‍💻 Fullstack Developer</li>
   <li>🎓 Computing Student</li>
-  <li>🌐 Passionate about backend development</li>
   <li>💡 Love a good challenge
 </li>
 </ul>

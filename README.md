@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ## My name is Vinicius
-( HTML | CSS | Javascript | Java | PHP | Laravel | CodeIgniter | Python | Django | Flask | FastAPI | PWA ) 🚀
+( HTML | CSS | Javascript | VueJS | Ionic | PHP | Laravel | CodeIgniter | Python | Django | Flask | FastAPI | PWA ) 🚀
 <ul>
   <li>👨‍💻 Fullstack Developer</li>
   <li>🎓 Informática @IFES</li>

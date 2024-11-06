@@ -3,14 +3,14 @@
 ( HTML | CSS | Javascript | Java | PHP | Laravel | CodeIgniter | Python | Django | Flask | FastAPI | PWA ) 🚀
 <ul>
   <li>👨‍💻 Fullstack Developer</li>
-  <li>🎓 Computing Student @IFES</li>
-  <li>💡 Love a good challenge
-</li>
+  <li>🎓 Informática @IFES</li>
+  <li>💡 Love a good challenge</li>
 </ul>
 
 <div>
-  <a href="https://github.com/viniciusxv27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=compact&langs_count=7&theme=react"/>
+    
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=donut&theme=dark)
 </div>
 
 <br>
@@ -19,7 +19,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="CodeIgniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
@@ -39,3 +40,15 @@
   <a href="https://www.linkedin.com/in/vinicius-costa-marcelos-3648901a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+--- 
+
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/viniciusxv27/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>

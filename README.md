@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&width=435&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ## My name is Vinicius
-( HTML | CSS | Javascript | NextJS | PHP | CodeIgniter | Python | Django | Flask ) 🚀
+( HTML | CSS | Javascript | React | PHP | Laravel | Python | Django | Flask ) 🚀
 <ul>
   <li>👨‍💻 Fullstack Developer</li>
   <li>💼 CTO @SOLVUS</li>
@@ -43,9 +43,4 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/viniciusxv27/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+![](https://komarev.com/ghpvc/?username=viniciusxv27&color=blueviolet&style=for-the-badge)

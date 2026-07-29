@@ -9,8 +9,7 @@
 
 <div>
     
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusxv27&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxv27&layout=donut&theme=dark)
+![GitHub Stats](https://ghstats.dev/api/card?username=viniciusxv27&theme=dark)
 </div>
 
 <br>
